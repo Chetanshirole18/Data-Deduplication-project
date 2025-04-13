@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Chetan/Desktop/DESK/BE Project Final 1/BE Project Final Copy/Data De-duplication/Jar/activation-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chetan/Desktop/DESK/BE Project Final 1/BE Project Final Copy/Data De-duplication/Jar/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chetan/Desktop/DESK/BE Project Final 1/BE Project Final Copy/Data De-duplication/Jar/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chetan/Desktop/DESK/BE Project Final 1/BE Project Final Copy/Data De-duplication/Jar/mail-6.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chetan/Desktop/DESK/BE Project Final 1/BE Project Final Copy/Data De-duplication/Jar/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chetan/Desktop/DESK/BE Project Final 1/BE Project Final Copy/Data De-duplication/Jar/protobuf-java-3.19.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chetan/Desktop/DESK/BE Project Final 1/BE Project Final Copy/Data De-duplication/Jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chetan/Desktop/DESK/BE Project Final 1/BE Project Final Copy/Data De-duplication/Jar/tomcat-jasper-8.5.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chetan/Desktop/DESK/BE Project Final 1/BE Project Final Copy/Data De-duplication/Jar/tomcat-servlet-api-8.5.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
